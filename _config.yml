@@ -1,3 +1,6 @@
+source: .
+destination: docs
+
 site: Duet Jekyll Theme
 
 collections:
@@ -41,7 +44,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -59,4 +62,3 @@ grid_columns:
   two: Two
   three: Three
   four: Four
-  
